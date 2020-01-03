@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlove1on.github.io</id>
     <title>Gridea</title>
-    <updated>2020-01-03T09:53:35.881Z</updated>
+    <updated>2020-01-03T10:03:05.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xlove1on.github.io"/>
     <link rel="self" href="https://xlove1on.github.io/atom.xml"/>
@@ -47,7 +47,7 @@
 <p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
 <p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
 <p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
+<h2 id="尽情发挥你的才华吧">尽情发挥你的才华吧！</h2>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
