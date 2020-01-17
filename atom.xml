@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlove1on.github.io</id>
     <title>Daxun日记</title>
-    <updated>2020-01-17T08:46:50.346Z</updated>
+    <updated>2020-01-17T08:51:39.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xlove1on.github.io"/>
     <link rel="self" href="https://xlove1on.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://xlove1on.github.io/post/t4QZF-6QY">
         </link>
         <updated>2020-01-17T07:54:35.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="markdown标题">Markdown标题</h1>
+        <content type="html"><![CDATA[<p>第一次使用，记录一下使用方法，方便以后写东西的时候查找。</p>
+<h1 id="markdown标题">Markdown标题</h1>
 <p>两种形式：一种前面加#号<br>
 另一种形式：在下一行添加短线------------</p>
 <h2 id="markdown-段落">Markdown 段落</h2>
@@ -83,11 +84,6 @@
 </tr>
 </tbody>
 </table>
-<h2 id="按钮">按钮</h2>
-<p>如</p>
-<pre><code>&lt;kbd&gt;Daxun日记&lt;/kbd&gt;
-</code></pre>
-<p><kbd>Daxun日记</kbd></p>
 ]]></content>
     </entry>
     <entry>
