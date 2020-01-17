@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xlove1on.github.io</id>
     <title>Daxun日记</title>
-    <updated>2020-01-17T07:39:52.434Z</updated>
+    <updated>2020-01-17T08:46:23.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xlove1on.github.io"/>
     <link rel="self" href="https://xlove1on.github.io/atom.xml"/>
@@ -11,12 +11,111 @@
     <icon>https://xlove1on.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Daxun日记</rights>
     <entry>
+        <title type="html"><![CDATA[Markdown教程]]></title>
+        <id>https://xlove1on.github.io/post/t4QZF-6QY</id>
+        <link href="https://xlove1on.github.io/post/t4QZF-6QY">
+        </link>
+        <updated>2020-01-17T07:54:35.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="markdown标题">Markdown标题</h1>
+<p>两种形式：一种前面加#号<br>
+另一种形式：在下一行添加短线------------</p>
+<h2 id="markdown-段落">Markdown 段落</h2>
+<p>换行直接回车或者空格两次</p>
+<h2 id="字体">字体</h2>
+<p>在字体的两边添加*号</p>
+<p>一个*号是斜体文字</p>
+<p>两个**号是粗体文字</p>
+<p>三个***号是斜粗体文字</p>
+<h2 id="分割线">分割线</h2>
+<p>三个以上的星号/减号/底线</p>
+<hr>
+<h2 id="删除线">删除线</h2>
+<p>在文字两边添加连个波浪线~~<br>
+如</p>
+<pre><code>~~Daxun日记~~
+</code></pre>
+<p><s>Daxun日记</s></p>
+<h2 id="下划线">下划线</h2>
+<p>在文字两边添加</p>
+<p>如</p>
+<pre><code>&lt;u&gt;Daxun日记&lt;/u&gt;
+</code></pre>
+<p><u>Daxun日记</u></p>
+<h2 id="链接">链接</h2>
+<pre><code>[Daxun日记](http://blog.daxun.art)
+</code></pre>
+<p>链接格式<a href="http://blog.daxun.art">Daxun日记</a></p>
+<h2 id="图片">图片</h2>
+<pre><code>![alt 属性文本](https://daxun.art/wp-content/uploads/2019/05/logo.png &quot;可选标题&quot;)
+</code></pre>
+<figure data-type="image" tabindex="1"><img src="https://daxun.art/wp-content/uploads/2019/05/logo.png" alt="alt 属性文本" title="可选标题" loading="lazy"></figure>
+<p>还不能改变高度和宽度，如果需要修改，使用<img></p>
+<h2 id="代码">代码</h2>
+<p>在代码两边添加```</p>
+<p>如</p>
+<pre><code class="language-javascript">$(document).ready(function () {
+    alert('RUNOOB');
+});
+</code></pre>
+<h2 id="表格">表格</h2>
+<p>Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。</p>
+<p>如：</p>
+<pre><code>|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th>表头</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+</tbody>
+</table>
+<h2 id="按钮">按钮</h2>
+<p>如</p>
+<pre><code>&lt;kbd&gt;Daxun日记&lt;/kbd&gt;
+</code></pre>
+<p><kbd>Daxun日记</kbd></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2019年_年度总结]]></title>
         <id>https://xlove1on.github.io/post/2019-nian-_-nian-du-zong-jie</id>
         <link href="https://xlove1on.github.io/post/2019-nian-_-nian-du-zong-jie">
         </link>
         <updated>2020-01-17T06:59:14.000Z</updated>
-        <content type="html"><![CDATA[<p>先开个头，还不知道写什么</p>
+        <content type="html"><![CDATA[<h2 id="先开个头还不知道写什么">先开个头，还不知道写什么</h2>
+<h1 id="苏打暑假工卡怪">苏打暑假工卡怪</h1>
+<h1 id="法国-官方都是">法国 官方都是</h1>
+<ul>
+<li>规范化风格</li>
+<li>放大韩国df</li>
+<li>范德萨发给s'd</li>
+</ul>
+<h1 id=""></h1>
+<ul>
+<li>对方傻傻的给安抚广大</li>
+</ul>
+<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<h4 id="四级标题">四级标题</h4>
+<h5 id="五级标题">五级标题</h5>
+<h6 id="六级标题">六级标题</h6>
+<pre><code>广泛大概法国队的还是官方电话和法国规划 gghghgjgjggjjghj
+</code></pre>
 ]]></content>
     </entry>
 </feed>
